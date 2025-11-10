@@ -79,7 +79,7 @@ my-microservices-project/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/yourusername/nestjs-redis-microservices.git
+git clone https://github.com/YuriMascarenhasLourenco/notifications-microservices.git
 cd nestjs-redis-microservices
 
 2️⃣ Install dependencies
@@ -107,7 +107,7 @@ Integrate PostgreSQL and persist data per microservice
 
 Implement authentication & authorization via a dedicated service
 
-Add monitoring and logging tools (Grafana, Prometheus, Winston)
+Add logging tools (Winston)
 
 🏅 About the Developer
 
